@@ -51,6 +51,7 @@ drwxr-xr-x  [ACTIVE]  Connected-Device-Checker/
 drwxr-xr-x  [ACTIVE]  Brute-Force/
 drwxr-xr-x  [ACTIVE]  UDP_File_Transferring/
 drwxr-xr-x  [ACTIVE]  DomainReconToo/
+drwxr-xr-x  [NEW]     EmailSentinel/
 ```
 
 ---
